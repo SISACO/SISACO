@@ -22,13 +22,14 @@
     <img height="40px" src="Images/Static/whatsapp.png" title="WhatsApp">
   </a>
   <a href="https://www.instagram.com/sisaco2.0/">
-    <img height="40px" src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" title="Instagram">
+    <img height="40px" src="Images/Static/instagram.png">
   </a>
   <br><br>
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   <br><br><br><br>
+    <img height="60px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
   <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
-  <img height="45px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+  <img height="60px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
   <hr>
 </p>
 <p align="center">
