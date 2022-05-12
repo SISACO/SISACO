@@ -1,56 +1,73 @@
-<h1 align="center">Hi 👋, I'm SISACO</h1>
-
-<h3 align="center">The Nerd Who lives in this earth</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sisaco&label=Profile%20views&color=0e75b6&style=flat" alt="sisaco" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sisac0" target="blank"><img src="https://img.shields.io/twitter/follow/sisac0?logo=twitter&style=for-the-badge" alt="sisac0" /></a> </p>
-
-- 🔭 I’m currently working on [Whatsapp Bot](https://github.com/SISACO/Hisoka-Morou)
-
-- 🌱 I’m currently learning **c++,python,javascript**
-
-- 👯 I’m looking to collaborate on **Abin Dragon**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SISACO?tab=repositories](https://github.com/SISACO?tab=repositories)
-
-- 📫 How to reach me **sisaco515400@gmail.com**
-
-- ⚡ Fun fact **Iam a Lazy bug**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://twitter.com/sisac0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sisac0" height="30" width="40" /></a>
-
-<a href="https://instagram.com/sisaco2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sisaco2.0" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/sisaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sisaco" height="30" width="40" /></a>
-
-<a href="https://discord.gg/Sisaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sisaco" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SISACO&style=flat-square&color=40c463">
+  <br><br><br>
+  <a href="https://SISACO.github.io/">
+    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=Hello+%F0%9F%91%8B+my;I+am+a+Student;And+I'm+A+Nerd;Welcome+to+my+Profile">
+    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=It's+me+SISACO.;Have+fun.+%F0%9F%98%84">
+  </a>
+  <br><br>
+  <a href="https://SISACO.github.io">
+    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/sisaco">
+    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
+  </a>
+  <a href="mailto:sisaco515400@gmail.com">
+    <img height="40px" src="Images/Static/gmail.png" title="Mail">
+  </a>
+  <a href="https://twitter.com/SISAC0">
+    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
+  </a>
+  <a href="https://wa.me/919995595067">
+    <img height="40px" src="Images/Static/whatsapp.png" title="WhatsApp">
+  </a>
+  <a href="https://www.instagram.com/sisaco2.0/">
+    <img height="40px" src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" title="Instagram">
+  </a>
+  <br><br>
+  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+  <br><br><br><br>
+  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
+  <img height="45px" src="Images/Static/stats.png">
+  <hr>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisaco&" alt="sisaco" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img width="100%" src="Images/Dynamic/stats.svg">
+  <br><br>
+  <img width="100%" src="Images/Dynamic/isocalendar.svg">
+  <img width="100%" src="Images/Dynamic/habits.svg">
+  <img width="100%" src="Images/Dynamic/issuesPRs.svg">
+  <img width="100%" src="Images/Dynamic/contribs.svg">
+  <img width="100%" src="Images/Dynamic/languages.svg">
+  <img width="100%" src="Images/Dynamic/topics.svg">
+  <img width="100%" src="Images/Dynamic/achievements.svg">
+  <img width="100%" src="Images/Dynamic/reactions.svg">
+  <img width="100%" src="Images/Dynamic/website.svg">
+  <br><br><br>
+      <td></td>
+      <td align='center'><img width="70" src="Images/Static/jupyter.png" title="Jupyter"></td>
+      <td align='center'><img width="70" src="Images/Static/tensorflow.png" title="TensorFlow"></td>
+      <td align='center'><img width="70" src="Images/Static/keras.png" title="Keras"></td>
+      <td align='center'><img width="70" src="Images/Static/spark.png" title="Apache Spark"></td>
+      <td></td>
+    </tr>
+  </table>
+  <br><br>
+</p>
+<p align="center">
+  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=160&lines=Gallery">
+  <img height="45px" src="Images/Static/gallery.png">
+  <hr>
+</p>
+<p align="center">
+  <a href="https://photos.app.goo.gl/bZDFY6yErU6jKrZW7">
+    <img src="https://lh3.googleusercontent.com/D-8tAXFdTtG8TqxCXKO9SDZ_Op1SbHklPP19AjIYRlSGsb9m4rVMMopZaSNqYOAruHuPiEH0ye0IDfYerJxe4ofll52C7HMGSY1KBYrwHdaWny1WSK2eyAlZAhbJuZ8vSV-lGKFuGg=w2400">
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=A+View+of+Earth+From+ISS;Credits+%3A+NASA">
+  </a>
+  <br>
+  <img width="600px" src="Images/Dynamic/cartoon.svg">
+  <img width="600px" src="Images/Dynamic/joke.svg">
+  <!-- <img width="600px" src="Images/Dynamic/meme.svg"> -->
+</p>
+<!--  -->
