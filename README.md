@@ -62,7 +62,7 @@
 </p>
 <p align="center">
   <a href="https://photos.app.goo.gl/bZDFY6yErU6jKrZW7">
-    <img src="Images/Dynamic/yt.pnh">
+    <img src="Images/Dynamic/yt.png">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=My+Youtube;Name+%3A+SISACO">
   </a>
