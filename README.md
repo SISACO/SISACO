@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=SISACO&style=flat-square&color=40c463">
   <br><br><br>
   <a href="https://SISACO.github.io/">
-    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=Hello+%F0%9F%91%8B+my;I+am+a+Student;And+I'm+A+Nerd;Welcome+to+my+Profile">
-    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=It's+me+SISACO.;Have+fun.+%F0%9F%98%84">
+    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=Hello+%F0%9F%91%8B;I+am+a+Student;And+I'm+A+Nerd;Welcome+to">
+    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=It's+me+SISACO.;My+Profile+%F0%9F%98%84">
   </a>
   <br><br>
   <a href="https://SISACO.github.io">
