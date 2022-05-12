@@ -62,13 +62,13 @@
 </p>
 <p align="center">
   <a href="https://photos.app.goo.gl/bZDFY6yErU6jKrZW7">
-    <img src="https://lh3.googleusercontent.com/D-8tAXFdTtG8TqxCXKO9SDZ_Op1SbHklPP19AjIYRlSGsb9m4rVMMopZaSNqYOAruHuPiEH0ye0IDfYerJxe4ofll52C7HMGSY1KBYrwHdaWny1WSK2eyAlZAhbJuZ8vSV-lGKFuGg=w2400">
+    <img src="Images/Dynamic/yt.pnh">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=A+View+of+Earth+From+ISS;Credits+%3A+NASA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=My+Youtube;Name+%3A+SISACO">
   </a>
   <br>
-  <img width="600px" src="Images/Dynamic/cartoon.svg">
-  <img width="600px" src="Images/Dynamic/joke.svg">
-  <!-- <img width="600px" src="Images/Dynamic/meme.svg"> -->
+  <img width="600px" src="Images/Dynamic/cartoon.png">
+  <img width="600px" src="Images/Dynamic/joke.png">
+  <img width="600px" src="Images/Dynamic/meme.png">
 </p>
-<!--  -->
+
