@@ -6,7 +6,7 @@
     <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=It's+me+SISACO.;My+Profile+%F0%9F%98%84">
   </a>
   <br><br>
-  <a href="https://SISACO.github.io">
+  <a href="https://sisaco.web.app">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/sisaco">
@@ -18,7 +18,7 @@
   <a href="https://twitter.com/SISAC0">
     <img height="40px" src="Images/Static/twitter.png" title="Twitter">
   </a>
-  <a href="https://wa.me/919995595067">
+  <a href="https://wa.me/">
     <img height="40px" src="Images/Static/whatsapp.png" title="WhatsApp">
   </a>
   <a href="https://www.instagram.com/sisaco2.0/">
