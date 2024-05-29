@@ -1,74 +1,27 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SISACO&style=flat-square&color=40c463">
-  <br><br><br>
-  <a href="https://SISACO.github.io/">
-    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=Hello+%F0%9F%91%8B;I+am+a+Student;And+I'm+A+Nerd;Welcome+to">
-    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=450&height=100&lines=It's+me+SISACO.;My+Profile+%F0%9F%98%84">
-  </a>
-  <br><br>
-  <a href="https://sisaco.web.app">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/sisaco">
-    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
-  </a>
-  <a href="mailto:sisaco515400@gmail.com">
-    <img height="40px" src="Images/Static/gmail.png" title="Mail">
-  </a>
-  <a href="https://twitter.com/SISAC0">
-    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
-  </a>
-  <a href="https://wa.me/">
-    <img height="40px" src="Images/Static/whatsapp.png" title="WhatsApp">
-  </a>
-  <a href="https://www.instagram.com/sisaco2.0/">
-    <img height="40px" src="Images/Static/instagram.png">
-  </a>
-  <br><br>
-  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
-  <br><br><br><br>
-    <img height="60px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
-  <img height="60px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-  <hr>
-</p>
-<p align="center">
-  <img width="100%" src="Images/Dynamic/stats.svg">
-  <br><br>
-  <img width="100%" src="Images/Dynamic/isocalendar.svg">
-  <img width="100%" src="Images/Dynamic/habits.svg">
-  <img width="100%" src="Images/Dynamic/issuesPRs.svg">
-  <img width="100%" src="Images/Dynamic/contribs.svg">
-  <img width="100%" src="Images/Dynamic/languages.svg">
-  <img width="100%" src="Images/Dynamic/topics.svg">
-  <img width="100%" src="Images/Dynamic/achievements.svg">
-  <img width="100%" src="Images/Dynamic/reactions.svg">
-  <img width="100%" src="Images/Dynamic/website.svg">
-  <br><br><br>
-      <td></td>
-      <td align='center'><img width="70" src="Images/Static/jupyter.png" title="Jupyter"></td>
-      <td align='center'><img width="70" src="Images/Static/tensorflow.png" title="TensorFlow"></td>
-      <td align='center'><img width="70" src="Images/Static/keras.png" title="Keras"></td>
-      <td align='center'><img width="70" src="Images/Static/spark.png" title="Apache Spark"></td>
-      <td></td>
-    </tr>
-  </table>
-  <br><br>
-</p>
-<p align="center">
-  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=160&lines=Gallery">
-  <img height="45px" src="Images/Static/gallery.png">
-  <hr>
-</p>
-<p align="center">
-  <a href="https://photos.app.goo.gl/bZDFY6yErU6jKrZW7">
-    <img src="Images/Dynamic/yt.png">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=My+Youtube;Name+%3A+SISACO">
-  </a>
-  <br>
-  <img width="600px" src="Images/Dynamic/cartoon.png">
-  <img width="600px" src="Images/Dynamic/joke.png">
-  <img width="600px" src="Images/Dynamic/meme.png">
-</p>
 
+## ðŸŒ Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sisaco2.0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SISACO) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SISAC0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SISACO) 
+
+# ðŸ’» Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=flat&logo=pythonanywhere&logoColor=151515) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=flat&logo=jasmine&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+# ðŸ“Š GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SISACO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SISACO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SISACO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## ðŸ† GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SISACO&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### âœï¸ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### ðŸ” Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SISACO&limit=5&theme=discord&combine_all_yearly_contributions=true)
+
+### ðŸ˜‚ Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=SISACO&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
